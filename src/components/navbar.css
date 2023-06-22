@@ -1,0 +1,26 @@
+.navbar__block{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 92px;
+}
+.navbar__title{
+    font-size: 50px;
+    font-weight: 600;
+    width: 550px;
+}
+.navbar__text{
+    font-size: 20px;
+    font-weight: 200;
+    color: gray;
+    margin-bottom: 60px;
+}
+.navbar__btn{
+    padding: 20px 40px;
+    border-radius: 10px;
+    background-color: #1AAB7B;
+    color: white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 156px;
+}
